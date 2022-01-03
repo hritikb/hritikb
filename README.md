@@ -1,8 +1,10 @@
-### Hi there 👋
-:man_student: I am an Undergraduate student at IISER Bhopal.<br/>
-:books: Data Science and Engineering major.<br/>
-:dart: Interested in NLP, Computer Vision, Social Media Analytics, Sports Analytics, FinTech, Algorithmic Game Theory, Computational Finance (and anything at the intersection of Data Science 💻 and Economics :moneybag:).<br/>
-:sparkler: Favorite Pastimes: badminton :badminton:, cricket :cricket_game:, novels :book:, movies 🎥.
+# Hello 👋
+- :man_student: I am an Undergraduate student at IISER Bhopal.<br/>
+- :books: Data Science and Engineering major.<br/>
+- :dart: Interested in NLP, Computer Vision, Social Media Analytics, Sports Analytics, FinTech, Algorithmic Game Theory, Computational Finance (and almost anything at the intersection of Data Science 💻 and Economics :moneybag:).<br/>
+- :sparkler: Favorite Pastimes: badminton :badminton:, table tennis 🏓, cricket :cricket_game:, novels :book: and movies 🎥.
+
+
 <!--
 **hritikb/hritikb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
