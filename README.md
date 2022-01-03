@@ -1,5 +1,5 @@
 ### Hi there 👋
-:man_student: I am an Undergraduate student at IISER Bhopal.<br/><br/>
+:man_student: I am an Undergraduate student at IISER Bhopal.<br/>
 :books: Data Science and Engineering major.<br/>
 :dart: Interested in NLP, Computer Vision, Social Media Analytics, Sports Analytics, FinTech, Algorithmic Game Theory, Computational Finance (and anything at the intersection of Data Science 💻 and Economics :moneybag:).<br/>
 :sparkler: Favorite Pastimes: badminton :badminton:, cricket :cricket_game:, novels :book:, movies 🎥.
