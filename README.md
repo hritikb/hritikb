@@ -1,7 +1,7 @@
 # Hello 👋
 - :man_student: I am an Undergraduate student at IISER Bhopal.<br/>
 - :books: Data Science and Engineering major.<br/>
-- :dart: Interested in Complex Networks, Computational Economics, Algorithmic Game Theory (and almost anything at the intersection of Data Science 💻 and Economics :moneybag:).<br/>
+- :dart: Interested in Machine Learning, Complex Networks, Computational Economics, Algorithmic Game Theory (and almost anything at the intersection of Data Science 💻 and Economics :moneybag:).<br/>
 - :sparkler: Favorite Pastimes: badminton :badminton:, table tennis 🏓, cricket :cricket_game:, novels :book: and movies 🎥.
 
 
