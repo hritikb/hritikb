@@ -1,5 +1,5 @@
 # Hello 👋
-- :man_student: I am an undergraduate student at IISER Bhopal.<br/>
+- :man_student: I am a Master's student at IISER Bhopal.<br/>
 - :books: Data Science and Engineering major.<br/>
 - :dart: Interested in Reinforcement Learning, Computational Economics and Algorithmic Game Theory.<br/>
 - :sparkler: Favorite Pastimes: novels :book:, badminton :badminton: and cricket :cricket_game:.
